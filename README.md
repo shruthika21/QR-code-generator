@@ -15,11 +15,3 @@ This Python script generates a QR code from a given URL and allows you to custom
 3. **Run the script:** Execute the Python script (e.g., `python qr_code_generator.py`).
 4. **Follow the on-screen prompts:** Enter the URL and select your preferred color scheme.
 5. **Voila!** The QR code will be saved as `qrcode.png` in the same directory.
-
-###  Color Schemes:
-
-* Black on White 
-* Blue on Yellow 
-* Green on Pink 
-* Purple on Orange 
-* Red on Cyan 
